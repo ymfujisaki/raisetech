@@ -1,2 +1,2 @@
-# reisetech
+# raisetech
 講義用
